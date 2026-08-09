@@ -10,6 +10,5 @@ namespace FeedbackService.Services
 
         Task<ApiResponse> GetFeedbackByCustomerAsync(string customerEmail);
 
-        
     }
 }

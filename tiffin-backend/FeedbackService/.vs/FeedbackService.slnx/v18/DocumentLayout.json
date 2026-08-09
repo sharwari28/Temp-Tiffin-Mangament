@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "D:\\CDAC_PROJECT\\FeedbackService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\dtos\\feedbackrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:dtos\\feedbackrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\eureka\\eurekaregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:eureka\\eurekaregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\eureka\\eurekaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:eureka\\eurekaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\eureka\\eurekamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:eureka\\eurekamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\eureka\\eurekaregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:eureka\\eurekaregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\dtos\\feedbackrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:dtos\\feedbackrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\dtos\\feedbackresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:dtos\\feedbackresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,44 +75,8 @@
       "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:feedbackservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\eureka\\eurekaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:eureka\\eurekaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\dtos\\feedbackresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:dtos\\feedbackresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8A71CF5-101B-2CEA-47AA-08F2C6EFD16E}|FeedbackService.csproj|d:\\cdac_project\\feedbackservice\\feedbackservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,105 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FeedbackController.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Controllers\\FeedbackController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Controllers\\FeedbackController.cs",
-              "RelativeToolTip": "Controllers\\FeedbackController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:29:56.601Z",
+              "WhenOpened": "2026-08-09T18:50:54.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T12:31:42.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FeedbackRequestDto.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackRequestDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\FeedbackRequestDto.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackRequestDto.cs",
-              "RelativeToolTip": "DTOs\\FeedbackRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:05:26.442Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EurekaModels.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaModels.cs",
-              "RelativeDocumentMoniker": "Eureka\\EurekaModels.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaModels.cs",
-              "RelativeToolTip": "Eureka\\EurekaModels.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T15:31:06.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EurekaRegistrationService.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaRegistrationService.cs",
-              "RelativeDocumentMoniker": "Eureka\\EurekaRegistrationService.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaRegistrationService.cs",
-              "RelativeToolTip": "Eureka\\EurekaRegistrationService.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwEIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T15:32:33.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-03T12:43:12.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-03T12:28:57.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FeedbackService.http",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\FeedbackService.http",
-              "RelativeDocumentMoniker": "FeedbackService.http",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\FeedbackService.http",
-              "RelativeToolTip": "FeedbackService.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-08-06T18:14:49.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "EurekaOptions.cs",
               "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaOptions.cs",
               "RelativeDocumentMoniker": "Eureka\\EurekaOptions.cs",
@@ -208,19 +140,99 @@
               "RelativeToolTip": "Eureka\\EurekaOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T15:29:52.388Z"
+              "WhenOpened": "2026-08-06T15:29:52.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EurekaRegistrationService.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaRegistrationService.cs",
+              "RelativeDocumentMoniker": "Eureka\\EurekaRegistrationService.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaRegistrationService.cs",
+              "RelativeToolTip": "Eureka\\EurekaRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T15:32:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EurekaModels.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaModels.cs",
+              "RelativeDocumentMoniker": "Eureka\\EurekaModels.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Eureka\\EurekaModels.cs",
+              "RelativeToolTip": "Eureka\\EurekaModels.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T15:31:06.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:29:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T08:55:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\ApiResponse.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:11:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackRequestDto.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FeedbackRequestDto.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackRequestDto.cs",
+              "RelativeToolTip": "DTOs\\FeedbackRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:05:26.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-06T14:45:18.247Z"
+              "Title": "FeedbackResponseDto.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FeedbackResponseDto.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackResponseDto.cs",
+              "RelativeToolTip": "DTOs\\FeedbackResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:10:36.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -232,47 +244,12 @@
               "RelativeToolTip": "Repositories\\FeedbackRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:14:28.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FeedbackService.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\FeedbackService.cs",
-              "RelativeDocumentMoniker": "Services\\FeedbackService.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\FeedbackService.cs",
-              "RelativeToolTip": "Services\\FeedbackService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:19:14.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IFeedbackService.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\IFeedbackService.cs",
-              "RelativeDocumentMoniker": "Services\\IFeedbackService.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\IFeedbackService.cs",
-              "RelativeToolTip": "Services\\IFeedbackService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:18:51.084Z"
+              "WhenOpened": "2026-08-04T09:14:28.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "feedback.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Models\\feedback.cs",
-              "RelativeDocumentMoniker": "Models\\feedback.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Models\\feedback.cs",
-              "RelativeToolTip": "Models\\feedback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T08:48:27.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "IFeedbackRepository.cs",
               "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Repositories\\IFeedbackRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IFeedbackRepository.cs",
@@ -280,35 +257,99 @@
               "RelativeToolTip": "Repositories\\IFeedbackRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:13:41.642Z"
+              "WhenOpened": "2026-08-04T09:13:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\IFeedbackService.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\IFeedbackService.cs",
+              "RelativeToolTip": "Services\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:18:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\FeedbackService.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "Services\\FeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:19:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "feedback.cs",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Models\\feedback.cs",
+              "RelativeDocumentMoniker": "Models\\feedback.cs",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Models\\feedback.cs",
+              "RelativeToolTip": "Models\\feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T08:48:27.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "FeedbackResponseDto.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\FeedbackResponseDto.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\FeedbackResponseDto.cs",
-              "RelativeToolTip": "DTOs\\FeedbackResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:10:36.297Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T12:43:12.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "DTOs\\ApiResponse.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\DTOs\\ApiResponse.cs",
-              "RelativeToolTip": "DTOs\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:11:01.38Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T12:28:57.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
+              "Title": "FeedbackService.http",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\FeedbackService.http",
+              "RelativeDocumentMoniker": "FeedbackService.http",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\FeedbackService.http",
+              "RelativeToolTip": "FeedbackService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-06T18:14:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-06T14:45:18.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "20260804090237_InitialCreate.cs",
               "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Migrations\\20260804090237_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260804090237_InitialCreate.cs",
@@ -320,19 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\CDAC_PROJECT\\FeedbackService\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T08:55:46.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FeedbackService.csproj",
               "DocumentMoniker": "D:\\CDAC_PROJECT\\FeedbackService\\FeedbackService.csproj",
               "RelativeDocumentMoniker": "FeedbackService.csproj",

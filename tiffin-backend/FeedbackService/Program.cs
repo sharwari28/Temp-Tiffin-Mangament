@@ -94,11 +94,6 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-
-//app.UseHttpsRedirection();
-
-//app.UseCors("AllowReactApp");
-
 app.UseAuthentication();
 
 app.UseAuthorization();
